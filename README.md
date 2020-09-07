@@ -45,7 +45,7 @@
 - See deployed app on
   [Heroku ](https://aqueous-hamlet-66556.herokuapp.com/)
   and
-  [GitHub ](https://github.com/camrynnesullivan/Fitness-Tracker)
+  [GitHub ](https://github.com/camrynnesullivan/google-books-search)
 
   to test features.
 
